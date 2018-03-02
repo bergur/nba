@@ -1,0 +1,31 @@
+{
+  "name": "nba",
+  "version": "1.0.0",
+  "description": "NBA 50 Könnun",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bergur/nba.git"
+  },
+  "keywords": [
+    "nba",
+    "nba",
+    "spjallið",
+    "spjall",
+    "top",
+    "50",
+    "slam"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bergur/nba/issues"
+  },
+  "homepage": "https://github.com/bergur/nba#readme",
+  "dependencies": {
+    "express": "^4.16.2"    
+  }
+}
